@@ -2,7 +2,9 @@
 Demo API for Loans
 
 Git Repo: https://github.com/abdulsafan/LoanStreetDemo
+
 Url: http://40.122.49.198/Swagger/index.html
+
 1. This simplified API use in memory DB for demo. 
 2. Use the 1st get which will generate a random Loan (copy the Loan_Id to test the other functions)
 2. You can use the 2nd Get to fetch that specific loan id and the details for it.
